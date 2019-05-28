@@ -1,0 +1,12 @@
+1. Create a folder name it `ToDo-List`.
+2. Go to ToDo-List Folder.
+3. pip install virtualenv
+4. virtualenv .
+5. .\Scripts\activate
+6. mkdir app
+7. cd app
+8. pip install django
+9. pip freeze (To check everything's verison)
+10. djanngo-admin.py startproject todo
+11. Run python manage.py runserver
+12. .\Scripts\activate migrate
